@@ -1,11 +1,11 @@
-﻿Build started 2017-02-27 11:27:03.
+﻿Build started 2017-02-27 11:41:09.
      1>Project "C:\PPW_lab1\PPWP\build\Laborka.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Laborka.dir\Debug\Laborka.unsuccessfulbuild" because "AlwaysCreate" was specified.
        CustomBuild:
          All outputs are up-to-date.
        ClCompile:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\PPW_lab1\PPWP\src\Trygonometria /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Laborka.dir\Debug\\" /Fd"Laborka.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\PPW_lab1\PPWP\src\Trygonometria /IC:\PPW_lab1\PPWP\build /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Laborka.dir\Debug\\" /Fd"Laborka.dir\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\main.cpp
          main.cpp
        ManifestResourceCompile:
          All outputs are up-to-date.
@@ -25,4 +25,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.80
+Time Elapsed 00:00:00.72

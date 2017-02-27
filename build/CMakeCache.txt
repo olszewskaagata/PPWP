@@ -154,6 +154,9 @@ PPW_lab1_SOURCE_DIR:STATIC=C:/PPW_lab1/PPWP/src
 //Dependencies for target
 Trygonometria_LIB_DEPENDS:STATIC=
 
+//Czy argumentami funkcji trygonometrycznych maja byc stopnie
+USE_TRIGONOMETRY_DEGREE:BOOL=ON
+
 
 ########################
 # INTERNAL cache entries
